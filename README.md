@@ -1,0 +1,1 @@
+A project to show how to set up Python ENV to call ChatGPT API.
